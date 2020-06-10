@@ -1,6 +1,11 @@
 # HeroesApp
-La app que nos tocó diseñar para el proyecto
+
+Repositorio del proyecto de CRUD del curso de Angular de cero a experto
 
 
 ## Nota
-Mirko Gonzalez - Fix all
+
+Firebase mirko:
+https://heroesapp-mirko.firebaseio.com/
+
+Para el TFG - Angular
