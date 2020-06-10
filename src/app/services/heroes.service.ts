@@ -8,8 +8,9 @@ import { map, delay } from 'rxjs/operators';
   providedIn: 'root'
 })
 export class HeroesService {
-
-  private url = 'https://login-app-eef87.firebaseio.com';
+  
+  // se tubo que cambiar la ruta del proyecto (documentacion)
+  private url = 'https://heroesapp-mirko.firebaseio.com/';
 
 
   constructor( private http: HttpClient ) { }
